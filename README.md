@@ -25,8 +25,8 @@ Passwords and flags are intentionally omitted.
 | Krypton    | ░░░░░░░░░░░░ 0 / 8 | Cryptography |
 | Narnia     | ░░░░░░░░░░░░ 0 / 9 | Binary exploitation |
 
-🔗 Detailed writeups:  
-👉 https://github.com/<your-username>/overthewire-wargames
+🔗 Detailed writeups:
+👉 https://github.com/matrix-7337/OverThewire-CTF
 
 ---
 
