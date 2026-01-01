@@ -13,11 +13,11 @@ Passwords and flags are intentionally omitted.
 ### ▶ OverTheWire Wargames
 | Wargame     | Progress | Focus Area |
 |------------|----------|------------|
-| Bandit     | ██████████░░ 20 / 34 | Linux fundamentals |
-| Leviathan  | ███████░░░░ 5 / 8 | Binary logic |
-| Natas      | █████░░░░░░ 10 / 34 | Web exploitation |
-| Krypton    | ████░░░░░░░ 4 / 8 | Cryptography |
-| Narnia     | ██░░░░░░░░░ 2 / 9 | Binary exploitation |
+| Bandit     | █░░░░░░░░░░░ 01 / 34 | Linux fundamentals |
+| Leviathan  | ░░░░░░░░░░░░ 0/ 8 | Binary logic |
+| Natas      | ░░░░░░░░░░░░ 0 / 34 | Web exploitation |
+| Krypton    | ░░░░░░░░░░░░ 0 / 8 | Cryptography |
+| Narnia     | ░░░░░░░░░░░░ 0 / 9 | Binary exploitation |
 
 🔗 Detailed writeups:  
 👉 https://github.com/<your-username>/overthewire-wargames
@@ -27,11 +27,11 @@ Passwords and flags are intentionally omitted.
 ### ▶ picoCTF (picoGym)
 | Category            | Challenges Solved | Focus |
 |---------------------|------------------|------|
-| Web Exploitation    | 32 | Web vulnerabilities |
-| Cryptography        | 18 | Ciphers & encoding |
-| Forensics           | 14 | File analysis |
-| Reverse Engineering | 9 | Program logic |
-| General Skills      | 21 | Linux & scripting |
+| Web Exploitation    | 0 | Web vulnerabilities |
+| Cryptography        | 0 | Ciphers & encoding |
+| Forensics           | 0 | File analysis |
+| Reverse Engineering | 0 | Program logic |
+| General Skills      | 0 | Linux & scripting |
 
 🔗 Detailed writeups:  
 👉 https://github.com/<your-username>/picoctf-writeups
@@ -55,7 +55,3 @@ Passwords and flags are intentionally omitted.
 
 ---
 
-## 📌 Notes for Recruiters
-- This dashboard provides a **summary view**
-- Each platform has **separate repositories** with learning-focused writeups
-- No solutions, flags, or passwords are published
