@@ -1,5 +1,11 @@
 # 🏴‍☠️ CTF Practice Dashboard
 
+![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
+![picoCTF](https://img.shields.io/badge/picoCTF-picoGym-green)
+![CTFs](https://img.shields.io/badge/CTF-Practice-informational)
+
+---
+
 This repository provides a **high-level overview** of my hands-on
 Capture The Flag (CTF) practice across multiple platforms.
 
@@ -37,15 +43,6 @@ Passwords and flags are intentionally omitted.
 👉 https://github.com/<your-username>/picoctf-writeups
 
 ---
-
-## 📊 Visual Progress
-
-![OverTheWire](https://img.shields.io/badge/OverTheWire-active-blue)
-![picoCTF](https://img.shields.io/badge/picoCTF-picoGym-green)
-![CTFs](https://img.shields.io/badge/CTF-Practice-informational)
-
----
-
 ## 🧠 Skills Demonstrated
 - Linux internals & permissions
 - Web application vulnerabilities
